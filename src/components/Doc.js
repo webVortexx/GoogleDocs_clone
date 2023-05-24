@@ -1,12 +1,10 @@
 import TextEditor from "./TextEditor";
 import { Button } from "@material-tailwind/react";
-import ChatOutlinedIcon from '@mui/icons-material/ChatOutlined';
 import LockOutlinedIcon from "@mui/icons-material/LockOutlined";
 import CreateNewFolderOutlinedIcon from '@mui/icons-material/CreateNewFolderOutlined';
 import ArrowDropDownOutlinedIcon from "@mui/icons-material/ArrowDropDownOutlined";
 import InsertCommentOutlinedIcon from "@mui/icons-material/InsertCommentOutlined";
 import VideoCallOutlinedIcon from '@mui/icons-material/VideoCallOutlined';
-import FilterDramaOutlinedIcon from '@mui/icons-material/FilterDramaOutlined';
 import RestoreOutlinedIcon from '@mui/icons-material/RestoreOutlined';
 import StarRateOutlinedIcon from '@mui/icons-material/StarRateOutlined';
 import CloudDoneOutlinedIcon from '@mui/icons-material/CloudDoneOutlined';
