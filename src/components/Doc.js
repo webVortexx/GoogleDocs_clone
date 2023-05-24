@@ -22,11 +22,14 @@ function Doc() {
               {" "}
               New Document         
             </h1>
+           <div className="flex gap-2 ml-4 mt-2">
+              <StarRateOutlinedIcon fontSize="small" />
+            </div>
             <div className="flex gap-2 ml-4 mt-2">
               <CreateNewFolderOutlinedIcon fontSize="small" />
             </div>
             <div className="flex gap-2 ml-4 mt-2">
-              <FilterDramaOutlinedIcon fontSize="small" />
+              <CloudDoneOutlinedIcon fontSize="small" />
             </div>
             
             
