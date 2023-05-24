@@ -8,6 +8,8 @@ import InsertCommentOutlinedIcon from "@mui/icons-material/InsertCommentOutlined
 import VideoCallOutlinedIcon from '@mui/icons-material/VideoCallOutlined';
 import FilterDramaOutlinedIcon from '@mui/icons-material/FilterDramaOutlined';
 import RestoreOutlinedIcon from '@mui/icons-material/RestoreOutlined';
+import StarRateOutlinedIcon from '@mui/icons-material/StarRateOutlined';
+import CloudDoneOutlinedIcon from '@mui/icons-material/CloudDoneOutlined';
 import React from "react";
 import profileLogo from "./images/profile.jpg";
 import docLogo from "./images/docs_logo.png";
@@ -22,7 +24,7 @@ function Doc() {
               {" "}
               New Document         
             </h1>
-           <div className="flex gap-2 ml-4 mt-2">
+            <div className="flex gap-2 ml-4 mt-2">
               <StarRateOutlinedIcon fontSize="small" />
             </div>
             <div className="flex gap-2 ml-4 mt-2">
