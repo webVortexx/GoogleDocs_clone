@@ -11,6 +11,7 @@ function TextEditor() {
     setEditorState(editorState);
   };
 
+  
   return (
     <div className="flex bg-[#F8F9FA] min-h-screen pb-4">
       <div className="ml-4">
