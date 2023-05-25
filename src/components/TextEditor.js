@@ -13,7 +13,7 @@ function TextEditor() {
 
   
   return (
-    <div className="flex bg-[#edf2fa] min-h-screen pb-4">
+    <div className="flex bg-[#f2f6fa] min-h-screen pb-4">
       <div className="ml-4">
         <Editor
           editorState={editorState}
