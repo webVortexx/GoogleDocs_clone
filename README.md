@@ -1,3 +1,6 @@
+Hi I am Rahul Prajapati ,
+welcome to my project of google-docs clone.
+Let me tell you about
 ## How to start? 
 Create Next app
 To create a Next.js app, open your terminal, cd into the directory you’d like to create the app in, and run the following command:
